@@ -1,0 +1,10 @@
+
+GoogleService-Info.plist
+OpenAIKeys.plist
+
+build/
+DerivedData/
+
+*.xcuserdata
+*.xcworkspace
+
